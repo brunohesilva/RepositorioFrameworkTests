@@ -1,0 +1,42 @@
+# Dependências
+/node_modules
+
+# Arquivos de compilação
+/dist
+/build
+/out
+
+# Variáveis de ambiente
+.env
+
+# Logs
+logs
+*.log
+
+# Arquivos de teste do Cypress
+/cypress/videos
+/cypress/screenshots
+
+# Arquivos temporários
+/.pnp
+.pnp.js
+.npm
+.npmrc
+
+# Arquivos de configuração local do IDE
+.idea
+.vscode
+
+# Arquivos gerados por ferramentas de cobertura de código
+/coverage
+
+# Cache do Jest
+/.jest
+
+# Cache do ESLint
+/.eslintcache
+
+# Outros arquivos gerados
+.DS_Store
+Thumbs.db
+
