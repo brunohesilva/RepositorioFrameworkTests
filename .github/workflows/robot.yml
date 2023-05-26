@@ -25,5 +25,5 @@ jobs:
       run: pip install robotframework-requests
 
     - name: Executar os testes do Robot Framework
-      run: robot tests/
+      run: robot --output none tests/
 
